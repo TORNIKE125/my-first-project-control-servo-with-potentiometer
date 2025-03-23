@@ -1,1 +1,2 @@
-# my-first-project-control-servo-with-potentiometer
+print your joystyck on the serial monitor
+დაბეჭდე შენი ჯოისტიკის სიგნალი სერიალ მონიტორზე
